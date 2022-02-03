@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'PassengerCounter'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FC26428EB2604F36B61A78F0BB7ED4E9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AB073BFC0BBA47EE8E688EA30698B6AC }}
           package: .
